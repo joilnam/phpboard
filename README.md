@@ -1,0 +1,5 @@
+# phpboard
+php7, mariadb, jquery, datatable, bootstrap 으로 제작한 기본 crud, 페이징,검색 게시판
+
+<!-- table구조 -->
+![image](https://user-images.githubusercontent.com/79505221/163786044-f6f1e603-505d-4617-b4a8-1b7d5f683ab9.png)
